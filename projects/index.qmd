@@ -1,0 +1,13 @@
+---
+title: Projects
+---
+
+## Omnidirectional Antennas for Implanted Sensors
+
+<img src="project_1_banner.jpg" style="height: 100%; width: 100%; object-fit: contain"/>
+
+For my master's thesis, I am working on designing an omnidirectional antenna for data transmission from implanted sensors. Specifically, my design is focused around compatibility with the [Urodynamics Monitor / Uromonitor](https://majeruslab.com/research/#wireless-implants) designed by Dr. Majerus. The antenna shown above is made with copper wire on a polyimide board, which is flexible. This allows the board to be rolled into a cylinder so that, as a magnetic field is generated with alternating current flowing through the copper traces, the magnetic field is concentrated along one axis. The above design, not including the straight wires, is about 10mm by 15 mm in area, so it has a diameter of about 5 mm when rolled.
+
+The goals of my thesis are to improve upon this design, making an antenna that is less directional without compromising the range of the original design. It is important for transmitting antennas in implanted sensors to be omnidirectional, or to have minimal directionality, because a device like the Urodynamics Monitor can shift after implantation. If a directional antenna were used in this application, it would be difficult to tell where on the body a patient should place a receiving antenna.
+
+So far, I have developed a few iterations of this design, but I am still gathering the final results I need to complete my thesis and to write publications on this work. My plan is to collect this remaining data by mid-January and be ready to defend my thesis by late March. I will provide links to my thesis and any publications I write on this work once they are published.

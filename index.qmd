@@ -1,0 +1,27 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/selfie.jpg"
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ben-kwiatkowski-25517a261/
+    - icon: envelope
+      text: Email
+      href: "mailto:btk35@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+I'm Ben Kwiatkowski, a master's student at Case Western Reserve University studying electrical engineering. For my master's, I'm working in the [SensRx Lab](https://majeruslab.com/), led by Dr. Steve Majerus, with the goal of designing specialized antennas for use in an implanted bladder pressure sensor. You can read more about my work in the Projects section of this website.
+
+My research interests include wireless communication and power transfer for implanted devices, as well as antenna physics. I am also interested in integrated circuit (IC) design and have contributed to a tape-out for a test chip in Dr. Majerus' lab.
+
+My goals for the future are to get accepted into a PhD program where I can continue similar work with wireless communication between implanted sensors and to get experience designing custom ICs. I'm especially interested in designing radio frequency (RF) ICs for the purposes of RF data transmission and wireless power harvesting. Eventually, whether it be while I'm working on a PhD or beyond, I would like to design an implantable sensor, such as an iteration of Dr. Majerus' bladder pressure sensor, using custom antennas and ICs that can be tested in animals or even people.
+
+Please feel free to [contact me](mailto:btk35@case.edu) if you would like to discuss potential projects, know of any resources related to these topics that you would recommend, or have any questions. Thanks.
+

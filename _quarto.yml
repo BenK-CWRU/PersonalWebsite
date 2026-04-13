@@ -1,4 +1,4 @@
-# This file controls the settings for your Quarto template from www.marvinschmitt.com
+# This file controls the settings for your Quarto template from www.marvin-schmitt.com
 
 # website settings
 website:
@@ -36,9 +36,9 @@ website:
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">&#169; 2025 Ben Kwiatkowski</span>
+      <span class="faux-block">&#169; 2026 Ben Kwiatkowski</span>
     right: |
-      <span class="faux-block">This website was made using <a href="https://github.com/marvinschmitt/quarto-website-template/">this template</a>.</span>
+      <span class="faux-block">This website was made using <a href="https://marvin-schmitt.com/blog/website-tutorial-quarto/">this template</a>.</span>
 
 project:
   type: website
